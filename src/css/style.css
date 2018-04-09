@@ -1,0 +1,19 @@
+.search-area {
+	padding-bottom: 50px;
+}
+
+#area-6kV {
+	display: none;
+}
+
+#area-500V {
+	display: none;
+}
+
+#area-230V {
+	display: none;
+}
+
+#area-sterowanie {
+	display: none;
+}

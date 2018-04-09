@@ -1,0 +1,132 @@
+{
+	"wysoka": [{
+			"title": "R-11",
+			"path": "./schematy/R-11+odplywy.pdf",
+			"description": "6kV schemat",
+			"tag": ["MK-153", "R-11", "MK-154"]
+		},
+		{
+			"title": "R-12",
+			"path": "http://kg.glogow.pl/zwr/schematy/R-12.pdf",
+			"description": "6kV schemat",
+			"tag": ["MK-151", "R-12", "MK-112"]
+		},
+		{
+			"title": "R-16",
+			"path": "http://kg.glogow.pl/zwr/schematy/RWN-16.pdf",
+			"description": "6kV schemat",
+			"tag": ["MK-311", "R-16", "MK-351", "RWN-16", "MK-321", "MD-323"]
+		},
+		{
+			"title": "R-17",
+			"path": "http://kg.glogow.pl/zwr/schematy/R-17.pdf",
+			"description": "6kV schemat",
+			"tag": ["MK-341", "R-17", "MK-331", "RWN-17", "MD-333", "RWN-17.1", "R-17.1", "RWN-17.2", "R-17.2", "MK-353"]
+		}
+	],
+	"silowe": [{
+			"title": "RNN-16.1",
+			"path": "http://kg.glogow.pl/zwr/schematy/RNN-16.1.pdf",
+			"description": "500V schemat",
+			"tag": ["EW-311", "EW-313", "K-312", "K-311", "RNN-16.1", "UK-312", "UK-311", "TM-311", "TM-312"]
+		},
+		{
+			"title": "RNN-17.1",
+			"path": "http://kg.glogow.pl/zwr/schematy/RNN-17.1.pdf",
+			"description": "500V schemat",
+			"tag": ["RNN-17.1", "EW-301", "EW-333", "EW-331", "PM-311C", "K-332", "K-331", "TM-331"]
+		},
+		{
+			"title": "IIIRM-3",
+			"path": "http://kg.glogow.pl/zwr/schematy/IIIRM-3.pdf",
+			"description": "500V schemat",
+			"tag": ["RNN-17.1", "RNN-16.1", "WPS-2M", "IIIGM-2", "IIIGM-3", "IIIRM-3"]
+		},
+		{
+			"title": "IIIRM-4",
+			"path": "http://kg.glogow.pl/zwr/schematy/IIIRM-4.pdf",
+			"description": "500V schemat",
+			"tag": ["RNN-17.1", "RNN-14.1", "IIIRM-4.1", "IIIRM-4", "WT-53", "WTM-1", "T-53", "TM-1", "T-54", "TM-2", "WT-54", "WTM-2"]
+		},
+		{
+			"title": "IIIRM-4.1",
+			"path": "http://kg.glogow.pl/zwr/schematy/IIIRM-4.1.pdf",
+			"description": "500V schemat",
+			"tag": ["IIIRM-4.1", "IIIRM-4", "Dd-24"]
+		}
+	],
+	"schematy230V": [{
+			"title": "IIISPWM-1",
+			"path": "http://kg.glogow.pl/zwr/schematy/IIISPWM-1.pdf",
+			"description": "szafa potrzeb wlasnych schemat",
+			"tag": ["MK-311", "MK-321", "MK-331", "MK-341", "MD-313", "R-16", "R-17", "MD-323", "MD-333", "IIISPWM-1", "RPW-16.1"]
+		},
+		{
+			"title": "RNN-16.3",
+			"path": "http://kg.glogow.pl/zwr/schematy/RNN-16.3.pdf",
+			"description": "szafa potrzeb wlasnych schemat",
+			"tag": ["RNN-16.3", "IIISPWM-1"]
+		},
+		{
+			"title": "RPW-16.1",
+			"path": "http://kg.glogow.pl/zwr/schematy/RPW-16.1.pdf",
+			"description": "szafa potrzeb wlasnych schemat",
+			"tag": ["RNN-16.3", "IIISPWM-1", "RNN-16.1", "RNN-16.1/1", "RNN-16.1/II", "R-16.1/I", "R-16.1/II", "R-17.1/II", "RWN-16.1/I", "RWN-16.1/II", "RWN-17.1/II", "PM-313A", "PM-351"]
+		},
+		{
+			"title": "RPW-17.1",
+			"path": "http://kg.glogow.pl/zwr/schematy/RPW-17.1.pdf",
+			"description": "szafa potrzeb wlasnych schemat",
+			"tag": ["RNN-16.3", "IIISPWM-1", "RNN-17.1", "RNN-17.1/1", "RNN-17.1/II", "R-17.1/I", "R-17.1/II", "RWN-17.1/II", "RWN-17.1/I", "PM-311A", "PM-311", "MK-331", "PM-331C", "PM-331", "PM-313B", "PM-352"]
+		}
+	],
+	"sterowanie":[{
+			"title": "Pole pomiarowe R-17",
+			"path": "http://kg.glogow.pl/zwr/schematy/(20)[rys.295]Polepomiar.RWN-17.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "RWN-17"]
+		},
+		{
+			"title": "Pole sprzeglowe R-17 i R-16",
+			"path": "http://kg.glogow.pl/zwr/schematy/(25)[rys.34]PolesprzegłoweRWN-16i17.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "RWN-17", "R-16", "RWN-16"]
+		},
+		{
+			"title": "Pole liniowe R-17 i R-16 pola 5, 6, 16, 17",
+			"path": "http://kg.glogow.pl/zwr/schematy/(31)[rys. 403]PolelinioweRWN-16iRWN-17p.5,6,16,17.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "RWN-17", "R-16", "RWN-16"]
+		},
+		{
+			"title": "Pole pomiarowe R-16 pole 9 i 14",
+			"path": "http://kg.glogow.pl/zwr/schematy/(32)[rys.295]Polepomiar.RWN-16p.9,14.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16", "RWN-16"]
+		},
+		{
+			"title": "Pole zasilajace R-16 pole 13 i R-17 pole 9 oraz 12",
+			"path": "http://kg.glogow.pl/zwr/schematy/(33)[rys.359]PolezasilająceRWN-16p.13iRWN-17p.9,12.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "RWN-17", "R-16", "RWN-16"]
+		},
+		{
+			"title": "Pole zasilajace R-16 pole 10",
+			"path": "http://kg.glogow.pl/zwr/schematy/(33a)[rys.359A]PolezasilająceRWN-16p.10.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16", "RWN-16"]
+		},
+		{
+			"title": "Pole transformatorowe R-16 i R-17",
+			"path": "http://kg.glogow.pl/zwr/schematy/(34)[rys.361]PoletransformatoroweRWN-16i17.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16", "RWN-16"]
+		},
+		{
+			"title": "Zasil. systemu monitoringu wizyjnego na WT-53 i 54",
+			"path": "http://kg.glogow.pl/zwr/schematy/Zasil.syst.monitoringuwizyjnegonaWT-53,54.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["WT-53", "WT-54", "WTM-1", "WTM-2", "IIIRM-4"]
+		}
+	]
+}

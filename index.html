@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<title>Wyszukiwarka dokumentacji O/ZWR</title>
+	<!-- Style -->
+	<link rel="stylesheet" type="text/css" href="dist/css/style.css">
+</head>
+<body>
+
+	<div class="bg-image"></div>
+
+	<header class="main-head" id="grid">
+		<div class="grid-head">
+			<h1>Wyszukiwarka Dokumentacji Elektrycznej O/ZWR Polkowice</h1>
+			<h3>Schmaety 6kV, 500V, 400/230V, szafy potrzeb własnych, sterowanie</h3>
+		</div>
+	</header>
+	
+	<main>
+		<section class="search-area" id="grid">
+			<div class="autocomplete">
+				<input type="text" class="form-control" placeholder="Wpisz nazwe urządzenia" id="searchEngine">
+			</div>
+		</section>
+			
+		<section id="grid">
+			<div id="area-6kV" class="card-body">
+				<h2 class="card-title text-center">
+					6kV Rozdzielnice
+				</h2>
+				<p id="area-text-6kV"></p>
+			</div>
+		</section>
+				
+		<section id="grid">
+			<div id="area-500V" class="card-body">
+				<h2 class="card-title text-center">
+					500V Rozdzielnice
+				</h2>
+				<p id="area-text-500V"></p>
+			</div>
+		</section>
+				
+		<section id="grid">
+			<div id="area-230V" class="card-body">
+				<h2 class="card-title text-center">
+					400/230V Rozdzielnice
+				</h2>
+				<p id="area-text-230V"></p>
+			</div>
+		</section>
+				
+		<section id="grid">
+			<div id="area-sterowanie" class="card-body">
+				<h2 class="card-title text-center">
+					Schematy sterownicze
+				</h2>
+				<p id="area-text-sterowanie"></p>
+			</div>
+		</section>
+				
+	</main>
+
+	<footer>Made by Karol Grydz</footer>
+
+<script src="dist/js/bundle.js"></script>
+</body>
+</html>
